@@ -28,7 +28,7 @@ There are a plethora of modules within MS Learn ranging from incredibly difficul
 
 ### Programming Languages
 
-- [ ] [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) is an incredibly useful scripting language used widely in the data science community, but is also useful for creating small pieces of supportive code
+- [X] [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) is an incredibly useful scripting language used widely in the data science community, but is also useful for creating small pieces of supportive code
 - [ ] [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) is a programming language created by Microsoft and is used in a wide range of industry applications from front-end web applications to back-end APIs. Often combined with [.NET](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet) which is an open source developer platform, created by Microsoft, for building many different types of applications.
 
 ### Web Development
@@ -67,9 +67,9 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [X] [1. Git Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/1.%20Git%20workshop)
   - [X] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/)
 - [ ] Week 2 (22 APR - 28 APR)
-  - [ ] First half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the first **6** modules)
-- [ ] Week 3 (29 APR - 5 MAY)
-  - [ ] Second half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the second **6** modules)
+  - [X] First half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the first **6** modules)
+- [X] Week 3 (29 APR - 5 MAY)
+  - [X] Second half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the second **6** modules)
   - [ ] [2. Python Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/2.%20Python%20workshop)
 - [ ] Week 4 (6 MAY - 12 MAY)
   - [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
@@ -103,16 +103,16 @@ As you go through and do these modules, you'll find that you need quite a few to
 
 - [ ] Required Tools
   - [ ] [Node.JS](https://nodejs.org/en/)
-  - [ ] [Git](https://git-scm.com/)
-  - [ ] [Python](https://www.python.org/downloads/)
+  - [X] [Git](https://git-scm.com/)
+  - [X] [Python](https://www.python.org/downloads/)
   - [ ] [React](https://reactjs.org/docs/create-a-new-react-app.html)
   - [ ] [.NET](https://dotnet.microsoft.com/en-us/download)
 - [ ] Development Environments
   - [ ] [VS Code](https://code.visualstudio.com/) a lightweight IDE suitable for developing any language, with a bit of fine-tuning (I'd recommend googling on how to set it up for use)
   - [ ] [JetBrains Rider](https://www.jetbrains.com/rider/) is an alternative IDE to Visual Studio (and, IMO, runs about a million times faster)
     - [ ] [Free License](https://www.jetbrains.com/community/education/#students) for students
-  - [ ] [Visual Studio](https://visualstudio.microsoft.com/vs/community/) the c# IDE
-  - [ ] [Fork](https://git-fork.com/) is meant to be paid, but it doesn't lock you out of anything if your trial expires so **shhhh**. Makes managing and visualising git much easier
+  - [X] [Visual Studio](https://visualstudio.microsoft.com/vs/community/) the c# IDE
+  - [X] [Fork](https://git-fork.com/) is meant to be paid, but it doesn't lock you out of anything if your trial expires so **shhhh**. Makes managing and visualising git much easier
 
 ---
 
